@@ -12,7 +12,7 @@ export const authOptions = {
     }),
   ],
   secret: process.env.NEXTAUTH_SECRET,
-  NEXTAUTH_URL: process.env.NEXTAUTH_URL,
+  site: process.env.NEXTAUTH_URL,
 
 
 }
