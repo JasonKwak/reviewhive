@@ -1,0 +1,11 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+}
+
+.icon {
+  width:48px;
+  height:48px;
+}

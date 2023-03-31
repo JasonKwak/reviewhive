@@ -1,0 +1,32 @@
+[
+    {
+        "Product": "Backpack",
+        "Price": "99.99",
+        "Color": "Black",
+        "Brand": "TheNorthFace",
+        "Description": "TheNorthFace Backpack",
+        "Satisfaction_ID": "1",
+        "Material": "Polyester",
+        "Manufacturer": "China"
+    },
+    {
+        "Product": "AirPods",
+        "Price": "299.99",
+        "Color": "White",
+        "Brand": "Apple",
+        "Description": "Apple Tings",
+        "Satisfaction_ID": "1",
+        "Material": "Plastic",
+        "Manufacturer": "China"
+    },
+    {
+        "Product": "Macbook",
+        "Price": "1899.99",
+        "Color": "Black",
+        "Brand": "Apple",
+        "Description": "M2",
+        "Satisfaction_ID": "3",
+        "Material": "Plastic",
+        "Manufacturer": "China"
+    }
+]
